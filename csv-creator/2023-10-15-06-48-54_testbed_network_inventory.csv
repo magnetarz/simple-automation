@@ -1,0 +1,8 @@
+device_name,device_os,software_version,uptime,serial_number
+core-rtr01,iosxr,7.4.1,3 days 12 hours 6 minutes,33AA3ADE9EE
+core-rtr02,iosxr,7.4.1,3 days 12 hours 6 minutes,BEB192EB242
+dist-rtr01,iosxe,17.6.1a,"3 days, 12 hours, 9 minutes",93X4XLANMYG
+dist-rtr02,iosxe,17.6.1a,"3 days, 12 hours, 9 minutes",9MBTPFN17MJ
+dist-sw01,nxos,9.3(8),"3 days, 12 hours, 9 minutes",9QF63L920NR
+dist-sw02,nxos,9.3(8),"3 days, 12 hours, 9 minutes",9OA0UP11SVC
+internet-rtr01,iosxe,17.3.4a,"3 days, 12 hours, 10 minutes",9GYLKKRUY7W
